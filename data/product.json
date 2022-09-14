@@ -1,0 +1,92 @@
+[
+    {
+        "name" : "sandisk ultra 128gb uhs-i memory card up to 80mb/s",
+        "price" : "45.89$",
+        "description" : "ultra fast cards (2) to take better pictures and full hd videos (1)",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "",
+            "url" : ""
+        }],
+        "cateogry" : "electronics",
+        "seller" : "ebay",
+        "stock" : 50,
+        "numofReviews" : 32,
+        "reviews" : []
+    },
+    {
+        "name" : "Men's Shirt",
+        "price" : "19$",
+        "description" : "comfortable wear",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "",
+            "url" : ""
+        }],
+        "cateogry" : "clothes",
+        "seller" : "myntra",
+        "stock" : 145,
+        "numofReviews" : 112,
+        "reviews" : []
+    },
+    {
+        "name" : "boat 365 airpods",
+        "price" : "33$",
+        "description" : "upto 3 days without charging use the product",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "",
+            "url" : ""
+        }],
+        "cateogry" : "electronics",
+        "seller" : "flipkart",
+        "stock" : 44,
+        "numofReviews" : 20,
+        "reviews" : []
+    },
+    {
+        "name" : "Headphones",
+        "price" : "30.44$",
+        "description" : "noise cancelation",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "",
+            "url" : ""
+        }],
+        "cateogry" : "accessories",
+        "seller" : "amazon",
+        "stock" : 50,
+        "numofReviews" : 52,
+        "reviews" : []
+    },
+    {
+        "name" : "power banker",
+        "price" : "20.02$",
+        "description" : "fast charging adapter",
+        "ratings" : 3.0,
+        "images" : [{
+            "public_id" : "",
+            "url" : ""
+        }],
+        "cateogry" : "accessories",
+        "seller" : "amazon",
+        "stock" : 26,
+        "numofReviews" : 44,
+        "reviews" : []
+    },
+    {
+        "name" : "samsung mobile note22",
+        "price" : "245$",
+        "description" : "handy use",
+        "ratings" : 4.3,
+        "images" : [{
+            "public_id" : "",
+            "url" : ""
+        }],
+        "cateogry" : "electronics",
+        "seller" : "ebay",
+        "stock" : 50,
+        "numofReviews" : 32,
+        "reviews" : []
+    }
+]
